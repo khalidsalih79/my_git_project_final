@@ -3,5 +3,5 @@ def add_two_numbers(a, b):
     return addition
 if __name__=='__main__':
     a=3
-    b=7
+    b=5
     print(add_two_numbers(a,b))
