@@ -21,4 +21,4 @@ class TestsForAddFunction(unittest.TestCase):
         self.assertEqual(2, result)
 
 if __name__ == "__main__":
-    unittest.main()2
+    unittest.main()
