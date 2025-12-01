@@ -1,6 +1,6 @@
 language: python
 python: 
  - "3.7" 
- - "3.8“
+ - "3.8"
 script: 
  - python test_sum.py
